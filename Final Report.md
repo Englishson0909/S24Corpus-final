@@ -2,7 +2,7 @@
 1)	How does the frequency of the adverb "very" differ between written and spoken texts?
 2)	What are the distributional patterns of "very" as an adverb, adjective in written and spoken text? 
 3)	Which words are most frequently collocated with "very" in written and spoken texts?
-4)	What is the relative frequency of other intensifiers in comparison to "very" in written and spoken texts
+4)	What is the relative frequency of other intensifiers in comparison to "very" in written and spoken texts?
 
 * Hypothesis Formation + Approach to Hypothesis testing (rationale)
 Hypothesis Based on Research questions 1: 'Very' is used more frequently in spoken texts than written texts
