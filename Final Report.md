@@ -1,16 +1,16 @@
-*	Research Questions *
+*	Research Questions 
 1)	How does the frequency of the adverb "very" differ between written and spoken texts?
 2)	What are the distributional patterns of "very" as an adverb, adjective in written and spoken text? 
 3)	Which words are most frequently collocated with "very" in written and spoken texts?
 4)	What is the relative frequency of other intensifiers in comparison to "very" in written and spoken texts
 
-**	Hypothesis Formation + Approach to Hypothesis testing (rationale) ** 
+*Hypothesis Formation + Approach to Hypothesis testing (rationale)
 Hypothesis Based on Research questions 1: 'Very' is used more frequently in spoken texts than written texts
 Hypothesis Based on Research questions 2: 'Very' is used more frequently as an adverb than as an adjective in both written and spoken texts, reflecting its primary function to intensify adjectives and adverbs.
 Hypothesis Based on Research questions 3: “Very” is most frequently collocated with much in both spoken and written text. 
 Hypothesis based on Research Question 4: Other intensifiers is frequently used as much as very in spoken and written text. 
 
-**	Description of data and data analysis methods **
+*	Description of data and data analysis methods 
 1)	Data Description
 A.	Spoken data : TED Talks are free online videos from experts on various topics, including communication. The selected TED Talks are between 6 and more than 18 minutes long, providing sufficient content for analysis. We removed speakers with strong accents to ensure clear speech patterns and deleted all time stamps and speaker names to focus on the content. After cleaning data, we combined them into a single dataset. This dataset, saved in CSV format, is ready for analysis using computational tools.
 B.	Written data : The Corpus of Contemporary American English (COCA) is a large collection of American English texts used for language research. For our study, we focused on COCA texts about communication to see how people use language in different situations. We removed texts with strong regional accents to keep the language patterns clear and uniform. We also deleted all time stamps and author names to focus only on the content. After cleaning the texts to remove extra information, we combined them into one dataset and saved it in CSV format for easy analysis. To ensure uniform lexical size between the two datasets, the COCA texts were reduced to match the lexical size of the TED transcripts. (219,507 words) 
@@ -21,7 +21,7 @@ B.	The distributional patterns of "very" as an adverb, adjective, and noun in wr
 C.	Collocated words following very in spoken and written text: Collocation Analysis, Tokenization, Bigram Finder, Filtering and Sorting
 D.	Other intensifier frequency in spoken and written text: Text Extraction, Text Tokenization and Counting, Plotting Frequencies 
 
-**	Data analysis, Reporting results, data visualization **
+* Data analysis, Reporting results, data visualization 
 RQ1 
 Data Analysis 
 Reporting results
@@ -47,7 +47,7 @@ Reporting results
 Data visualization
 ![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/c0058213-ea2c-49c9-8282-3e0680e8dd6d)
 
-**	Hypothesis testing using chi-square test (Frequency data) **
+*	Hypothesis testing using chi-square test (Frequency data)
 RQ1 
 Null Hypothesis (H0): The frequency of "very" is independent of the type of text (Spoken: TED, Written: COCA).
 Alternative Hypothesis (HA): The frequency of "very" is dependent of the type of text (Spoken: TED, Written: COCA).
@@ -93,11 +93,11 @@ Interpretation:The Chi-squared statistic of 83.3710 with 8 degrees of freedom an
 Conclusion: We reject the null hypothesis and conclude that the frequency of intensifiers is dependent on the type of text. This indicates that the usage patterns of intensifiers vary significantly between spoken texts (TED) and written texts (COCA). This finding could be useful for linguists and educators to understand stylistic differences and to tailor language learning materials accordingly.
 
 
-** Limitations and future research directions **
+* Limitations and future research directions *
 Limitation: The study lacks research on the frequency of different parts of speech of "very". Additionally, the spoken text consists of speeches, which may not represent all spoken texts, and the written text consists of news articles, which may not represent all written texts.
+Future Research directions: There is a need for research on the trends in the use of "very" and "so" among native English speakers. 
 
-
-**	Reference **
+* Reference *
 1)	Collab [https://colab.research.google.com/drive/1GZhWO_XkkVohyj899aADQL_vBpyFX3Ow#scrollTo=vzm2S2IKyGhB]
 2)	Chatgpt [chatgpt4]
 3)	Oxford dictionary 
