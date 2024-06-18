@@ -105,7 +105,7 @@ Limitation: The study lacks research on the frequency of different parts of spee
 Future Research directions: There is a need for research on the trends in the use of "very" and "so" among native English speakers. 
 
 * Reference *
-1)	Collab [https://colab.research.google.com/drive/1GZhWO_XkkVohyj899aADQL_vBpyFX3Ow#scrollTo=vzm2S2IKyGhB]
+1)	Collab (https://colab.research.google.com/drive/1GZhWO_XkkVohyj899aADQL_vBpyFX3Ow#scrollTo=vzm2S2IKyGhB)
 2)	Chatgpt [chatgpt4]
 3)	Oxford dictionary 
 4)	논문 정리 
