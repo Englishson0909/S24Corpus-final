@@ -1,4 +1,4 @@
-1.Research Questions
+* Research Questions
   
 1)	How does the frequency of the adverb "very" differ between written and spoken texts?
 2)	What are the distributional patterns of "very" as an adverb, adjective in written and spoken text? 
@@ -20,7 +20,7 @@ A.	Spoken data : TED Talks are free online videos from experts on various topics
 
 B.	Written data : The Corpus of Contemporary American English (COCA) is a large collection of American English texts used for language research. For our study, we focused on COCA texts about communication to see how people use language in different situations. We removed texts with strong regional accents to keep the language patterns clear and uniform. We also deleted all time stamps and author names to focus only on the content. After cleaning the texts to remove extra information, we combined them into one dataset and saved it in CSV format for easy analysis. To ensure uniform lexical size between the two datasets, the COCA texts were reduced to match the lexical size of the TED transcripts. (219,507 words) 
 
-3)	Data analysis methods
+2)	Data analysis methods
    
 A.	Frequency comparison of very in both Spoken and written text: word count
 B.	The distributional patterns of "very" as an adverb, adjective, and noun in written and spoken text: Loading NLP Model, Chunk Processing, POS Tagging   
