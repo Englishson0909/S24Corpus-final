@@ -1,16 +1,19 @@
-*	Research Questions 
+*	Research Questions
+  
 1)	How does the frequency of the adverb "very" differ between written and spoken texts?
 2)	What are the distributional patterns of "very" as an adverb, adjective in written and spoken text? 
 3)	Which words are most frequently collocated with "very" in written and spoken texts?
 4)	What is the relative frequency of other intensifiers in comparison to "very" in written and spoken texts?
 
 * Hypothesis Formation + Approach to Hypothesis testing (rationale)
+  
 Hypothesis Based on Research questions 1: 'Very' is used more frequently in spoken texts than written texts
 Hypothesis Based on Research questions 2: 'Very' is used more frequently as an adverb than as an adjective in both written and spoken texts, reflecting its primary function to intensify adjectives and adverbs.
 Hypothesis Based on Research questions 3: “Very” is most frequently collocated with much in both spoken and written text. 
 Hypothesis based on Research Question 4: Other intensifiers is frequently used as much as very in spoken and written text. 
 
-*	Description of data and data analysis methods 
+*	Description of data and data analysis methods
+  
 1)	Data Description
 A.	Spoken data : TED Talks are free online videos from experts on various topics, including communication. The selected TED Talks are between 6 and more than 18 minutes long, providing sufficient content for analysis. We removed speakers with strong accents to ensure clear speech patterns and deleted all time stamps and speaker names to focus on the content. After cleaning data, we combined them into a single dataset. This dataset, saved in CSV format, is ready for analysis using computational tools.
 
