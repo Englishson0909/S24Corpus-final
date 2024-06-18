@@ -54,6 +54,7 @@ Data visualization
 ![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/c0058213-ea2c-49c9-8282-3e0680e8dd6d)
 
 *	Hypothesis testing using chi-square test (Frequency data)
+  
 RQ1 
 Null Hypothesis (H0): The frequency of "very" is independent of the type of text (Spoken: TED, Written: COCA).
 Alternative Hypothesis (HA): The frequency of "very" is dependent of the type of text (Spoken: TED, Written: COCA).
