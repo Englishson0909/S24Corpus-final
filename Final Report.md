@@ -1,4 +1,4 @@
-*	Research Questions
+1.Research Questions
   
 1)	How does the frequency of the adverb "very" differ between written and spoken texts?
 2)	What are the distributional patterns of "very" as an adverb, adjective in written and spoken text? 
