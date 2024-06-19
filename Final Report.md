@@ -112,21 +112,29 @@ Interpretation:The Chi-squared statistic of 83.3710 with 8 degrees of freedom an
 
 Conclusion: We reject the null hypothesis and conclude that the frequency of intensifiers is dependent on the type of text. This indicates that the usage patterns of intensifiers vary significantly between spoken texts (TED) and written texts (COCA). This finding could be useful for linguists and educators to understand stylistic differences and to tailor language learning materials accordingly.
 
-* Conclusion
+* Summary
+  
   The research examined four key questions regarding the usage patterns of the word "very" and other intensifiers across spoken (TED) and written (COCA) texts. Findings revealed significant differences in the frequency of "very" between TED and COCA, indicating its varied usage in different contexts. However, the distribution of "very" as an adverb and adjective showed no significant variation between TED and COCA, suggesting consistent usage patterns across spoken and written texts. Collocation patterns of "very" exhibited significant dependency on text type, highlighting distinct linguistic contexts between spoken and written language. Additionally, the study confirmed that the frequency of other intensifiers is significantly influenced by text type, underscoring the need for tailored linguistic analyses and educational approaches across different textual domains.
   
-* Limitations and future research directions *
+* Limitations and future research directions
+  
 Limitation: The study lacks research on the frequency of different parts of speech of "very". Additionally, the spoken text consists of speeches, which may not represent all spoken texts, and the written text consists of news articles, which may not represent all written texts.
-Future Research directions: There is a need for research on the trends in the use of "very" and "so" among native English speakers. 
+Future Research directions: There is a need for research on the trends in the use of "very" and "so" among native English speakers in respect of spoken and Written.  
 
-* Reference *
+* Reference 
 Conzett, J., Hargreaves, P. H., Hill, J., Lewis, M., & Woolard, G. C. (2000). Teaching collocation: Further developments in the lexical approach (pp. 163-199). M. Lewis (Ed.). Boston: Thomson Heinle.
+
 Ellis, N. C. (2002). Frequency effects in language processing: A review with implications for theories of implicit and explicit language acquisition. Studies in second language acquisition, 24(2), 143-188.
+
 Lewis, M., Gough, C., Martínez, R., Powell, M., Marks, J., Woolard, G. C., & Ribisch, K. H. (1997). Implementing the lexical approach: Putting theory into practice (Vol. 3, No. 1, pp. 223-232). Hove: Language Teaching Publications.
+
 강선희.(2011).고등학교 1학년 영어교과서에 나타난 확대어들(amplifiers)의 코퍼스 분석.석사학위논문.공주대학교 교육대학원,공주
+
 심춘화.(2012).“부사+형용사”연어의 코퍼스 기반 분석:제 7차 개정 중등 및 고등 전 학년 영어 교과서에 나오는 정도 부사를 중심으로.석사학위 논문,동국대학교 교육대학원,서울
+
 정연창.(2009).부사 유의어 ‘Entirely,Totally,Wholly’의 사용에 관한 코퍼스 기반 연구.언어 연구,26(2),85-101.
+
 정원일.(2005).고등학교 영어교과서에 나타난 정도부사의 코퍼스 기반 연구. 석사학위논문.동국대학교 교육대학원,서울
-Collab (https://colab.research.google.com/drive/1GZhWO_XkkVohyj899aADQL_vBpyFX3Ow#scrollTo=vzm2S2IKyGhB)
+[Google Colab](https://colab.research.google.com/), (https://colab.research.google.com/drive/1GZhWO_XkkVohyj899aADQL_vBpyFX3Ow#scrollTo=vzm2S2IKyGhB)
 Chatgpt [chatgpt4]
 Oxford dictionary 
