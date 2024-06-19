@@ -5,9 +5,11 @@ Corpus research has provided extensive data on how often words are used in texts
 * Literature Review
 
 1) The primacy of chunks
+   
  The traditional approach to language learning initially emphasized single words alongside multiword combinations, but there has been a noticeable shift towards focusing predominantly on these multiword units, known as lexical chunks. These chunks serve as the primary building blocks in organizing a lexical syllabus. They encompass both grammatical and non-grammatical structures and vary in terms of fixedness, allowing different degrees of flexibility in usage. Some expressions, like "on the other hand," are highly fixed, while others, such as "make a long story short," allow more variation. Chunks also differ in how transparent their meanings are based on their component words, with some being highly compositional (like "banana yellow") and others less so (like idiomatic expressions such as "bite the big one"). And the discussion of primacy of chunks has been connected with the research of collocation. According to Conzett et al. 2000, Collocations might be described as the words that are placed or found together in a predictable pattern. Examples range from two word combinations such as problem child to extended combinations such as He’s recovering from a major operation. 
 
-2) Frequecny of words
+3) Frequecny of words
+   
  The frequency of collocations dictates the development of lexical phrases, influencing how easily idioms are understood. Idioms that appear frequently are more accessible because their figurative meanings are widely recognized through repeated exposure, overshadowing their literal interpretations (Giora, 1997; Nippold & Rudzinski, 1993). When cognitive demands are high, relying on established phrases becomes essential, reflecting the principle that retrieving familiar expressions is less taxing than constructing new ones (Bresnan, 1999). Kuiper's (1996) examination of "smooth talkers," such as sports commentators and auctioneers, underscores how frequent exposure to communicative contexts enhances the ability to process and articulate observations in real time. This highlights the pivotal role of frequency in language comprehension and production, emphasizing the practical benefits of mastering commonly used phrases and idiomatic expressions.
 
 * Research Questions
