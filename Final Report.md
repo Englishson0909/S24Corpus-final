@@ -1,4 +1,4 @@
-# Miran: Copy and paste this content to README.md file before presentation
+# Miran comments: 1) Copy and paste this content to README.md file before presentation, 2) Write the research title as a heading (not final project)
 
 1. Introuduction 
 
