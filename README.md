@@ -114,7 +114,7 @@ Conclusion: We reject the null hypothesis and conclude that the frequency of int
   
   The research examined four key questions regarding the usage patterns of the word "very" and other intensifiers across spoken (TED) and written (COCA) texts. Findings revealed significant differences in the frequency of "very" between TED and COCA, indicating its varied usage in different contexts. However, the distribution of "very" as an adverb and adjective showed no significant variation between TED and COCA, suggesting consistent usage patterns across spoken and written texts. Collocation patterns of "very" exhibited significant dependency on text type, highlighting distinct linguistic contexts between spoken and written language. Additionally, the study confirmed that the frequency of other intensifiers is significantly influenced by text type, underscoring the need for tailored linguistic analyses and educational approaches across different textual domains.
   
-# * Limitations and future research directions
+# 7. Limitations and future research directions
   
 Limitation: The study lacks research on the frequency of different parts of speech of "very". Additionally, the spoken text consists of speeches, which may not represent all spoken texts, and the written text consists of news articles, which may not represent all written texts.
 Future Research directions: There is a need for research on the trends in the use of "very" and "so" among native English speakers in respect of spoken and Written and in English textbooks published in Korea.  
