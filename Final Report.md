@@ -22,8 +22,11 @@ Corpus research has provided extensive data on how often words are used in texts
 * Hypothesis Formation + Approach to Hypothesis testing (rationale)
   
 Hypothesis Based on Research questions 1: 'Very' is used more frequently in spoken texts than written texts
+
 Hypothesis Based on Research questions 2: 'Very' is used more frequently as an adverb than as an adjective in both written and spoken texts, reflecting its primary function to intensify adjectives and adverbs.
+
 Hypothesis Based on Research questions 3: “Very” is most frequently collocated with much in both spoken and written text. 
+
 Hypothesis based on Research Question 4: Other intensifiers is frequently used as much as very in spoken and written text. 
 
 3.	Methodology 
