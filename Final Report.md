@@ -142,6 +142,6 @@ Lewis, M., Gough, C., Martínez, R., Powell, M., Marks, J., Woolard, G. C., & Ri
 
 [Google Colab Link](https://colab.research.google.com/drive/1GZhWO_XkkVohyj899aADQL_vBpyFX3Ow#scrollTo=vzm2S2IKyGhB)
 
-Chatgpt (https://chatgpt.com/)
+[Chatgpt](https://chatgpt.com/)
 
-Oxford dictionary (https://www.oxfordlearnersdictionaries.com/)
+[Oxford dictionary](https://www.oxfordlearnersdictionaries.com/)
