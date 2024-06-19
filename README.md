@@ -1,4 +1,4 @@
-## Examining 'Very' Across Written and Spoken Corpora: A Corpus Linguistics Approach
+### Examining 'Very' Across Written and Spoken Corpora: A Corpus Linguistics Approach
 
 # 1. Introuduction 
 
