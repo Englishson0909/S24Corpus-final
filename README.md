@@ -1,10 +1,10 @@
-Examining 'Very' Across Written and Spoken Corpora: A Corpus Linguistics Approach
+## Examining 'Very' Across Written and Spoken Corpora: A Corpus Linguistics Approach##
 
-1. Introuduction 
+# 1. Introuduction 
 
 Corpus research has provided extensive data on how often words are used in texts and the typical patterns in which they appear. This information helps prioritize which vocabulary and phrases should be taught to learners, based on their real-world relevance and frequency. Unlike traditional methods that focused on teaching grammar rules by difficulty, a lexical approach emphasizes teaching vocabulary based on its practical usage in everyday language. This approach ensures learners acquire language skills that are more effective and applicable in real-life contexts. Additionally, corpus studies emphasize the importance of teaching collocations—words that frequently occur together in natural language. Mastering collocations enhances fluency and naturalness in language use, reflecting how native speakers naturally express themselves. By incorporating collocations and frequently used vocabulary into language instruction, educators can better prepare learners to understand and use language proficiently in various contexts. Thus, integrating corpus-based lexical research into language teaching not only makes learning materials more relevant and practical but also supports learners in developing communication skills that closely align with real-world language use. Well-selected chunks in the syllabus offer the learner the practical value of being among the most frequent, and hence most useful, elements of the language. (Lewis et al., 1997)
 
-2. Literature Review
+# 2. Literature Review
 
 * The primacy of chunks
    
@@ -22,7 +22,7 @@ Corpus research has provided extensive data on how often words are used in texts
 4)	What is the relative frequency of intensifiers other than "very" in written and spoken texts, and how do these frequencies differ?
 
 
-3.	Methodology 
+# 3.	Methodology 
   
 *	Data Description
    
@@ -30,14 +30,14 @@ A.	Spoken data : TED Talks are free online videos from experts on various topics
 
 B.	Written data : The Corpus of Contemporary American English (COCA) is a large collection of American English texts used for language research. For our study, we focused on COCA texts on News Article. After cleaning the texts to remove extra information, we combined them into one dataset and saved it in CSV format for easy analysis. To ensure uniform lexical size between the two datasets, the COCA texts were reduced to match the lexical size of the TED transcripts. (219,507 words) 
 
-4.	Data analysis methods
+# 4.	Data analysis methods
    
 A.	Frequency comparison of very in both Spoken and written text: word count
 B.	The distributional patterns of "very" as an adverb, adjective, and noun in written and spoken text: Loading NLP Model, Chunk Processing, POS Tagging   
 C.	Collocated words following very in spoken and written text: Collocation Analysis, Tokenization, Bigram Finder, Filtering and Sorting
 D.	Other intensifier frequency in spoken and written text: Text Extraction, Text Tokenization and Counting, Plotting Frequencies 
 
-5. Results and Discussion  
+# 5. Results and Discussion  
 RQ1 
 Data Analysis 
 Reporting results
@@ -66,7 +66,7 @@ Data visualization
 ![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/c0058213-ea2c-49c9-8282-3e0680e8dd6d)
 
 
-Hypothesis testing using chi-square test (Frequency data)
+# Hypothesis testing using chi-square test (Frequency data)
   
 * RQ1 
 Null Hypothesis (H0): The frequency of "very" is independent of the type of text (Spoken: TED, Written: COCA).
@@ -110,11 +110,11 @@ Interpretation:The Chi-squared statistic of 83.3710 with 8 degrees of freedom an
 
 Conclusion: We reject the null hypothesis and conclude that the frequency of intensifiers is dependent on the type of text. This indicates that the usage patterns of intensifiers vary significantly between spoken texts (TED) and written texts (COCA). This finding could be useful for linguists and educators to understand stylistic differences and to tailor language learning materials accordingly.
 
-6. Summary
+# 6. Summary
   
   The research examined four key questions regarding the usage patterns of the word "very" and other intensifiers across spoken (TED) and written (COCA) texts. Findings revealed significant differences in the frequency of "very" between TED and COCA, indicating its varied usage in different contexts. However, the distribution of "very" as an adverb and adjective showed no significant variation between TED and COCA, suggesting consistent usage patterns across spoken and written texts. Collocation patterns of "very" exhibited significant dependency on text type, highlighting distinct linguistic contexts between spoken and written language. Additionally, the study confirmed that the frequency of other intensifiers is significantly influenced by text type, underscoring the need for tailored linguistic analyses and educational approaches across different textual domains.
   
-* Limitations and future research directions
+# * Limitations and future research directions
   
 Limitation: The study lacks research on the frequency of different parts of speech of "very". Additionally, the spoken text consists of speeches, which may not represent all spoken texts, and the written text consists of news articles, which may not represent all written texts.
 Future Research directions: There is a need for research on the trends in the use of "very" and "so" among native English speakers in respect of spoken and Written and in English textbooks published in Korea.  
