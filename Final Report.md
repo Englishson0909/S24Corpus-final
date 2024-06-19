@@ -2,7 +2,10 @@
 
 1. Introuduction 
 
-Corpus research has provided extensive data on how often words are used in texts and the typical patterns in which they appear. This information helps prioritize which vocabulary and phrases should be taught to learners, based on their real-world relevance and frequency. Unlike traditional methods that focused on teaching grammar rules by difficulty, a lexical approach emphasizes teaching vocabulary based on its practical usage in everyday language. This approach ensures learners acquire language skills that are more effective and applicable in real-life contexts. Additionally, corpus studies emphasize the importance of teaching collocations—words that frequently occur together in natural language. Mastering collocations enhances fluency and naturalness in language use, reflecting how native speakers naturally express themselves. By incorporating collocations and frequently used vocabulary into language instruction, educators can better prepare learners to understand and use language proficiently in various contexts. Thus, integrating corpus-based lexical research into language teaching not only makes learning materials more relevant and practical but also supports learners in developing communication skills that closely align with real-world language use. Well-selected chunks in the syllabus offer the learner the practical value of being among the most frequent, and hence most useful, elements of the language. (Lewis et al., 1997)
+Corpus research provides extensive insights into the frequency and patterns of word usage in texts. This data is pivotal for determining which vocabulary and phrases should be prioritized in language teaching, based on their real-world relevance and prevalence. Unlike traditional methods that prioritize teaching grammar rules by difficulty, a lexical approach emphasizes teaching vocabulary in contexts where it is commonly used. This ensures that learners acquire language skills that are not only effective but also applicable in everyday situations.
+Moreover, corpus studies underscore the significance of teaching collocations—words that frequently co-occur in natural language. Mastering collocations enhances fluency and naturalness in language use, mirroring the way native speakers naturally express themselves. By integrating collocations and frequently used vocabulary into language instruction, educators can better equip learners to comprehend and utilize language proficiently across diverse contexts.
+Therefore, incorporating corpus-based lexical research into language teaching not only enhances the relevance and practicality of learning materials but also supports learners in developing communication skills that closely align with real-world language use. This approach ensures that the syllabus includes well-selected chunks that offer learners practical value by focusing on the most frequently used and thus most useful elements of the language (Lewis et al., 1997).
+
 
 2. Literature Review
 
@@ -18,8 +21,8 @@ Corpus research has provided extensive data on how often words are used in texts
   
 1)	How does the frequency of the adverb "very" differ between written and spoken texts?
 2)	What are the different distributional patterns of "very" as an adverb, adjective in written and spoken text? 
-3)	Which are thte alloccaion patterns "very" in written and spoken texts? And how different?
-4)	What is the relative frequency of other intensifiers in comparison to "very" in written and spoken texts? And how different?
+3) Are there significant differences in the collocational patterns of "very" between written and spoken texts? 
+4)	What is the relative frequency of intensifiers other than "very" in written and spoken texts, and how do these frequencies differ?
 
 * Hypothesis Formation + Approach to Hypothesis testing (rationale)
   
@@ -94,11 +97,13 @@ Interpretation: The Chi-squared statistic of 0.0641 with 1 degree of freedom and
 
 Conclusion: The test results indicate that the type of text (TED vs. COCA) does not significantly influence the distribution of the word "very" as an adverb and adjective. This lack of significant difference suggests that the usage of "very" as an adverb and adjective is similar between spoken (TED) and written (COCA) texts. Language researchers and educators might consider that these similarities imply consistent usage patterns of "very" across different types of texts when analyzing language use or designing language learning materials.
 
-* RQ3 
- Null hypothesis: The collocation patterns of "very" with other words are independent of the type of text (Spoken: TED, Written: COCA). 
+* RQ3
+
+Null hypothesis: The collocation patterns of "very" with other words are independent of the type of text (Spoken: TED, Written: COCA). 
+
 Alternative Hypothesis: The collocation patterns of "very" with other words are dependent of the type of text (Spoken: TED, Written: COCA).
 
-Chi-squared test result: The Chi-squared test of independence was applied to assess if the observed differences in the collocation patterns of "very" are not independent of the type of text. The test was statistically significant (χ2=120.4340, df=25, p=0.0).
+Chi-squared test result: The Chi-squared test of independence was applied to assess if the observed differences in the collocation patterns of "very" are not independent of the type of text. The test was statistically significant (χ2=120.4340, df=25, p=0.0). 
 
 Interpretation: The Chi-squared statistic of 120.4340with 25 degree of freedom and a p-value of 0.0 suggests that there is statistically significant association between the collocation patterns of "very" and the type of text (TED vs. COCA). The observed differences between actual and expected frequencies are significant at the conventional significance level of 0.05.
 
