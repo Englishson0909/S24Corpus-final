@@ -1,14 +1,14 @@
-* Introuduction 
+1. Introuduction 
 
 Corpus research has provided extensive data on how often words are used in texts and the typical patterns in which they appear. This information helps prioritize which vocabulary and phrases should be taught to learners, based on their real-world relevance and frequency. Unlike traditional methods that focused on teaching grammar rules by difficulty, a lexical approach emphasizes teaching vocabulary based on its practical usage in everyday language. This approach ensures learners acquire language skills that are more effective and applicable in real-life contexts. Additionally, corpus studies emphasize the importance of teaching collocations—words that frequently occur together in natural language. Mastering collocations enhances fluency and naturalness in language use, reflecting how native speakers naturally express themselves. By incorporating collocations and frequently used vocabulary into language instruction, educators can better prepare learners to understand and use language proficiently in various contexts. Thus, integrating corpus-based lexical research into language teaching not only makes learning materials more relevant and practical but also supports learners in developing communication skills that closely align with real-world language use. Well-selected chunks in the syllabus offer the learner the practical value of being among the most frequent, and hence most useful, elements of the language. (Lewis et al., 1997)
 
-* Literature Review
+2. Literature Review
 
-1) The primacy of chunks
+* The primacy of chunks
    
  The traditional approach to language learning initially emphasized single words alongside multiword combinations, but there has been a noticeable shift towards focusing predominantly on these multiword units, known as lexical chunks. These chunks serve as the primary building blocks in organizing a lexical syllabus. They encompass both grammatical and non-grammatical structures and vary in terms of fixedness, allowing different degrees of flexibility in usage. Some expressions, like "on the other hand," are highly fixed, while others, such as "make a long story short," allow more variation. Chunks also differ in how transparent their meanings are based on their component words, with some being highly compositional (like "banana yellow") and others less so (like idiomatic expressions such as "bite the big one"). And the discussion of primacy of chunks has been connected with the research of collocation. According to Conzett et al. 2000, Collocations might be described as the words that are placed or found together in a predictable pattern. Examples range from two word combinations such as problem child to extended combinations such as He’s recovering from a major operation. 
 
-3) Frequecny of words
+* Frequecny of words
    
  The frequency of collocations dictates the development of lexical phrases, influencing how easily idioms are understood. Idioms that appear frequently are more accessible because their figurative meanings are widely recognized through repeated exposure, overshadowing their literal interpretations (Giora, 1997; Nippold & Rudzinski, 1993). When cognitive demands are high, relying on established phrases becomes essential, reflecting the principle that retrieving familiar expressions is less taxing than constructing new ones (Bresnan, 1999). Kuiper's (1996) examination of "smooth talkers," such as sports commentators and auctioneers, underscores how frequent exposure to communicative contexts enhances the ability to process and articulate observations in real time. This highlights the pivotal role of frequency in language comprehension and production, emphasizing the practical benefits of mastering commonly used phrases and idiomatic expressions.
 
@@ -26,22 +26,22 @@ Hypothesis Based on Research questions 2: 'Very' is used more frequently as an a
 Hypothesis Based on Research questions 3: “Very” is most frequently collocated with much in both spoken and written text. 
 Hypothesis based on Research Question 4: Other intensifiers is frequently used as much as very in spoken and written text. 
 
-*	Methodology 
+3.	Methodology 
   
-1)	Data Description
+*	Data Description
    
 A.	Spoken data : TED Talks are free online videos from experts on various topics, including communication. The selected TED Talks are between 6 and more than 18 minutes long, providing sufficient content for analysis. We removed speakers with strong accents to ensure clear speech patterns and deleted all time stamps and speaker names to focus on the content. After cleaning data, we combined them into a single dataset. This dataset, saved in CSV format, is ready for analysis using computational tools.
 
 B.	Written data : The Corpus of Contemporary American English (COCA) is a large collection of American English texts used for language research. For our study, we focused on COCA texts about communication to see how people use language in different situations. We removed texts with strong regional accents to keep the language patterns clear and uniform. We also deleted all time stamps and author names to focus only on the content. After cleaning the texts to remove extra information, we combined them into one dataset and saved it in CSV format for easy analysis. To ensure uniform lexical size between the two datasets, the COCA texts were reduced to match the lexical size of the TED transcripts. (219,507 words) 
 
-2)	Data analysis methods
+4.	Data analysis methods
    
 A.	Frequency comparison of very in both Spoken and written text: word count
 B.	The distributional patterns of "very" as an adverb, adjective, and noun in written and spoken text: Loading NLP Model, Chunk Processing, POS Tagging   
 C.	Collocated words following very in spoken and written text: Collocation Analysis, Tokenization, Bigram Finder, Filtering and Sorting
 D.	Other intensifier frequency in spoken and written text: Text Extraction, Text Tokenization and Counting, Plotting Frequencies 
 
-* Results and Discussion  
+5. Results and Discussion  
 RQ1 
 Data Analysis 
 Reporting results
@@ -67,9 +67,10 @@ Reporting results
 Data visualization
 ![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/c0058213-ea2c-49c9-8282-3e0680e8dd6d)
 
-*	Hypothesis testing using chi-square test (Frequency data)
+
+Hypothesis testing using chi-square test (Frequency data)
   
-RQ1 
+* RQ1 
 Null Hypothesis (H0): The frequency of "very" is independent of the type of text (Spoken: TED, Written: COCA).
 Alternative Hypothesis (HA): The frequency of "very" is dependent of the type of text (Spoken: TED, Written: COCA).
 
@@ -78,7 +79,7 @@ Interpretation: The Chi-squared statistic of 103.95755 with 1 degree of freedom 
 Conclusion: The test results indicate that the type of text (TED vs. COCA) significantly influences the frequency of the word "very". This significant difference suggests that the usage of "very" varies considerably between spoken (TED) and written (COCA) texts. Language researchers and educators might consider these differences when analyzing language use in different contexts or when designing language learning materials that target different types of text. 
 
 
-RQ2 
+* RQ2 
 Null Hypothesis: The distributional patterns of "very" as an adverb and adjective are independent of the type of text (Spoken: TED, Written: COCA).
 Alternative Hypothesis: The distributional patterns of "very" as an adverb and adjective are dependent on the type of text (Spoken: TED, Written: COCA).
 
@@ -88,7 +89,7 @@ Interpretation: The Chi-squared statistic of 0.0641 with 1 degree of freedom and
 
 Conclusion: The test results indicate that the type of text (TED vs. COCA) does not significantly influence the distribution of the word "very" as an adverb and adjective. This lack of significant difference suggests that the usage of "very" as an adverb and adjective is similar between spoken (TED) and written (COCA) texts. Language researchers and educators might consider that these similarities imply consistent usage patterns of "very" across different types of texts when analyzing language use or designing language learning materials.
 
-RQ3 
+* RQ3 
  Null hypothesis: The collocation patterns of "very" with other words are independent of the type of text (Spoken: TED, Written: COCA). 
 Alternative Hypothesis: The collocation patterns of "very" with other words are dependent of the type of text (Spoken: TED, Written: COCA).
 
@@ -99,7 +100,7 @@ Interpretation: The Chi-squared statistic of 120.4340with 25 degree of freedom a
 Conclusion: The test results indicate that the type of text (TED vs. COCA) does significantly influence the collocation distribution of the word "very" This significant difference suggests that the collocation distribution of  "very"  is differernt between spoken (TED) and written (COCA) texts. Language researchers and educators might consider that these differences imply consistent usage patterns of "very" across different types of texts when analyzing language use or designing language learning materials
 
 
-RQ4 
+* RQ4 
 Null Hypothesis 
 The frequency of intensifiers is independent of types of text. 
 Alternative hypothesis 
@@ -112,7 +113,7 @@ Interpretation:The Chi-squared statistic of 83.3710 with 8 degrees of freedom an
 
 Conclusion: We reject the null hypothesis and conclude that the frequency of intensifiers is dependent on the type of text. This indicates that the usage patterns of intensifiers vary significantly between spoken texts (TED) and written texts (COCA). This finding could be useful for linguists and educators to understand stylistic differences and to tailor language learning materials accordingly.
 
-* Summary
+6. Summary
   
   The research examined four key questions regarding the usage patterns of the word "very" and other intensifiers across spoken (TED) and written (COCA) texts. Findings revealed significant differences in the frequency of "very" between TED and COCA, indicating its varied usage in different contexts. However, the distribution of "very" as an adverb and adjective showed no significant variation between TED and COCA, suggesting consistent usage patterns across spoken and written texts. Collocation patterns of "very" exhibited significant dependency on text type, highlighting distinct linguistic contexts between spoken and written language. Additionally, the study confirmed that the frequency of other intensifiers is significantly influenced by text type, underscoring the need for tailored linguistic analyses and educational approaches across different textual domains.
   
