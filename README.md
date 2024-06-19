@@ -33,8 +33,11 @@ B.	Written data : The Corpus of Contemporary American English (COCA) is a large 
 # 4.	Data analysis methods
    
 A.	Frequency comparison of very in both Spoken and written text: word count
+
 B.	The distributional patterns of "very" as an adverb, adjective, and noun in written and spoken text: Loading NLP Model, Chunk Processing, POS Tagging   
+
 C.	Collocated words following very in spoken and written text: Collocation Analysis, Tokenization, Bigram Finder, Filtering and Sorting
+
 D.	Other intensifier frequency in spoken and written text: Text Extraction, Text Tokenization and Counting, Plotting Frequencies 
 
 # 5. Results and Discussion  
