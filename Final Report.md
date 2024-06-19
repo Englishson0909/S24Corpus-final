@@ -122,7 +122,8 @@ Conclusion: We reject the null hypothesis and conclude that the frequency of int
 Limitation: The study lacks research on the frequency of different parts of speech of "very". Additionally, the spoken text consists of speeches, which may not represent all spoken texts, and the written text consists of news articles, which may not represent all written texts.
 Future Research directions: There is a need for research on the trends in the use of "very" and "so" among native English speakers in respect of spoken and Written.  
 
-* Reference 
+* Reference
+  
 Conzett, J., Hargreaves, P. H., Hill, J., Lewis, M., & Woolard, G. C. (2000). Teaching collocation: Further developments in the lexical approach (pp. 163-199). M. Lewis (Ed.). Boston: Thomson Heinle.
 
 Ellis, N. C. (2002). Frequency effects in language processing: A review with implications for theories of implicit and explicit language acquisition. Studies in second language acquisition, 24(2), 143-188.
@@ -137,10 +138,10 @@ Lewis, M., Gough, C., Martínez, R., Powell, M., Marks, J., Woolard, G. C., & Ri
 
 정원일.(2005).고등학교 영어교과서에 나타난 정도부사의 코퍼스 기반 연구. 석사학위논문.동국대학교 교육대학원,서울
 
-[Google Colab](https://colab.research.google.com/), 
+[Google Colab](https://colab.research.google.com/)
 
 [Google Colab Link](https://colab.research.google.com/drive/1GZhWO_XkkVohyj899aADQL_vBpyFX3Ow#scrollTo=vzm2S2IKyGhB)
 
 Chatgpt (https://chatgpt.com/)
 
-Oxford dictionary 
+Oxford dictionary (https://www.oxfordlearnersdictionaries.com/)
