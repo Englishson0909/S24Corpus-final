@@ -138,10 +138,10 @@ Lewis, M., Gough, C., Martínez, R., Powell, M., Marks, J., Woolard, G. C., & Ri
 
 정원일.(2005).고등학교 영어교과서에 나타난 정도부사의 코퍼스 기반 연구. 석사학위논문.동국대학교 교육대학원,서울
 
+[Chatgpt](https://chatgpt.com/)
+
 [Google Colab](https://colab.research.google.com/)
 
 [Google Colab Link](https://colab.research.google.com/github/Englishson0909/S24Corpus-final/blob/main/finalcodesRQS0619.ipynb#scrollTo=BWm32pRfxAgI)
-
-[Chatgpt](https://chatgpt.com/)
 
 [Oxford dictionary](https://www.oxfordlearnersdictionaries.com/)
