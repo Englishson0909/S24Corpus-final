@@ -55,7 +55,9 @@ RQ3
 Data Analysis 
 Reporting results
 Data visualization
-![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/c0f461d8-6044-4e40-9327-8da719bd576e)
+![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/e2261c9b-3f10-4f92-b85f-b315d97d86f5)
+
+
 
 RQ4
 Data Analysis 
@@ -135,7 +137,7 @@ Lewis, M., Gough, C., Martínez, R., Powell, M., Marks, J., Woolard, G. C., & Ri
 
 [Google Colab](https://colab.research.google.com/)
 
-[Google Colab Link](https://colab.research.google.com/github/Englishson0909/S24Corpus-final/blob/main/finalcodesRQS.ipynb)
+[Google Colab Link](https://colab.research.google.com/github/Englishson0909/S24Corpus-final/blob/main/finalcodesRQS0619.ipynb#scrollTo=BWm32pRfxAgI)
 
 [Chatgpt](https://chatgpt.com/)
 
