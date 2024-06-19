@@ -135,7 +135,11 @@ Lewis, M., Gough, C., Martínez, R., Powell, M., Marks, J., Woolard, G. C., & Ri
 정연창.(2009).부사 유의어 ‘Entirely,Totally,Wholly’의 사용에 관한 코퍼스 기반 연구.언어 연구,26(2),85-101.
 
 정원일.(2005).고등학교 영어교과서에 나타난 정도부사의 코퍼스 기반 연구. 석사학위논문.동국대학교 교육대학원,서울
+
 [Google Colab](https://colab.research.google.com/), 
+
 [Google Colab Link](https://colab.research.google.com/drive/1GZhWO_XkkVohyj899aADQL_vBpyFX3Ow#scrollTo=vzm2S2IKyGhB)
-Chatgpt [chatgpt4]
+
+Chatgpt (https://chatgpt.com/)
+
 Oxford dictionary 
