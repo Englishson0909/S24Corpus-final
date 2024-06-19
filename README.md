@@ -135,7 +135,7 @@ Lewis, M., Gough, C., Martínez, R., Powell, M., Marks, J., Woolard, G. C., & Ri
 
 [Google Colab](https://colab.research.google.com/)
 
-[Google Colab Link](https://colab.research.google.com/drive/1GZhWO_XkkVohyj899aADQL_vBpyFX3Ow#scrollTo=vzm2S2IKyGhB)
+[Google Colab Link](https://colab.research.google.com/github/Englishson0909/S24Corpus-final/blob/main/finalcodesRQS.ipynb)
 
 [Chatgpt](https://chatgpt.com/)
 
