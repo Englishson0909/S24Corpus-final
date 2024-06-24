@@ -45,7 +45,63 @@ In contemporary English, these adverb modifiers that boost meaning are often dis
 
 Very
 
-very is regarded as the oldest among the primary intensifiers, with its usage as an intensifier tracing back to the fourteenth century. It is reported to be the most frequent intensifier in contemporary English. (Tagliamonte, 2008). Reflecting this trend, "very" appears most frequently in Korean textbooks. However, many studies suggest that the use of "very" is diminishing in strength. (Tagliamonte, 2008) 
+very
+1) adverb
+
+a) to a high degree : EXCEEDINGLY
+very hot
+didn't hurt very much
+b) : in actual fact : TRULY
+the very best store in town
+told the very same story
+very
+
+2 of 2
+adjective
+verier; veriest
+1
+a
+: EXACT, PRECISE
+the very heart of the city
+b
+: exactly suitable or necessary
+the very thing for the purpose
+2
+a
+: UNQUALIFIED, SHEER
+the very shame of it
+b
+: ABSOLUTE, UTTER
+the veriest fool alive
+3
+—used as an intensive especially to emphasize identity
+before my very eyes
+4
+: MERE, BARE
+the very thought terrified him
+5
+: being the same one : SELFSAME
+the very man I saw
+6
+: SPECIAL, PARTICULAR
+the very essence of truth is plainness and brightness
+—John Milton
+7
+a
+: properly entitled to the name or designation : TRUE
+the fierce hatred of a very woman
+—J. M. Barrie
+b
+: ACTUAL, REAL
+the very blood and bone of our grammar
+—H. L. Smith †1972
+c
+: SIMPLE, PLAIN
+in very truth
+
+
+very is regarded as the oldest among the primary intensifiers, with its usage as an intensifier tracing back to the fourteenth century. It is reported to be the most frequent intensifier in contemporary English. (Tagliamonte, 2008). Reflecting this trend, "very" appears most frequently among Korean learneres of English. However, many studies suggest that the use of "very" is diminishing in strength. (Tagliamonte, 2008). 
+ 
 
 
 
