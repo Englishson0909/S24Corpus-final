@@ -1,4 +1,4 @@
-# Miran comments: 1) Copy and paste this content to README.md file before presentation, 2) Write the research title as a heading (not final project)
+Examining 'Very' Across Written and Spoken Corpora: A Corpus Linguistics Approach
 
 1. Introuduction 
 
@@ -6,13 +6,50 @@ Corpus research has provided extensive data on how often words are used in texts
 
 2. Literature Review
 
-* The primacy of chunks
-   
- The traditional approach to language learning initially emphasized single words alongside multiword combinations, but there has been a noticeable shift towards focusing predominantly on these multiword units, known as lexical chunks. These chunks serve as the primary building blocks in organizing a lexical syllabus. They encompass both grammatical and non-grammatical structures and vary in terms of fixedness, allowing different degrees of flexibility in usage. Some expressions, like "on the other hand," are highly fixed, while others, such as "make a long story short," allow more variation. Chunks also differ in how transparent their meanings are based on their component words, with some being highly compositional (like "banana yellow") and others less so (like idiomatic expressions such as "bite the big one"). And the discussion of primacy of chunks has been connected with the research of collocation. According to Conzett et al. 2000, Collocations might be described as the words that are placed or found together in a predictable pattern. Examples range from two word combinations such as problem child to extended combinations such as He’s recovering from a major operation. 
+Corpus Linguistics
+Although corpus-based studies of language structure can look back on a tradition of at least a hundred years, there is no general agreement as to what exactly constitutes corpus linguistics. "The investigation of linguistic research questions that have been framed in terms of the conditional distribution of linguistic phenomena in a linguistic corpus" (Stefanowitsch, 2020, p215).
+Corpus linguistics is perhaps best described for the moment in simple terms as the study of language based on examples of “real life” language use. (McEnery & Wilson 2001: 1).
 
-* Frequecny of words
-   
- The frequency of collocations dictates the development of lexical phrases, influencing how easily idioms are understood. Idioms that appear frequently are more accessible because their figurative meanings are widely recognized through repeated exposure, overshadowing their literal interpretations (Giora, 1997; Nippold & Rudzinski, 1993). When cognitive demands are high, relying on established phrases becomes essential, reflecting the principle that retrieving familiar expressions is less taxing than constructing new ones (Bresnan, 1999). Kuiper's (1996) examination of "smooth talkers," such as sports commentators and auctioneers, underscores how frequent exposure to communicative contexts enhances the ability to process and articulate observations in real time. This highlights the pivotal role of frequency in language comprehension and production, emphasizing the practical benefits of mastering commonly used phrases and idiomatic expressions.
+
+Collocation
+Collocation is the way words naturally group together in a text. It can be measured by seeing how likely it is that certain words will appear near each other (Halliday, 1961, p. 276). Every word has a range of other words it usually appears with, some more likely than others, based on how we use language. Words are organized by specific rules and patterns (Stefanowitsch, 2020, p. 215). For example, in grammar, certain rules decide the order of words. Usually, a definite article comes before nouns, adjectives, or adverbs that describe those adjectives, but not before other articles or verbs. Also, a transitive verb generally follows its direct object unless the sentence structure changes. This verb might be followed by elements that start a noun phrase, like a pronoun or a determiner.
+From a meaning perspective, certain verbs expect specific kinds of direct objects. For instance, the verb "drink" is typically used with liquids like water or coffee. You wouldn't use "drink" with non-liquid nouns like "bread" or "guitar." This matching of verbs and objects shows a deep connection between grammar rules and how we understand the world. Also, the main topic of a text helps determine which words appear together, making sure they all relate to the same subject.
+Furthermore, words in a text naturally tend to group with some words more than others, forming patterns that are not always predicted by basic language rules. 
+
+chi-squared test
+In corpus linguistics, researchers have several significant tests at their disposal, such as the chi-squared test, the Student’s t-test, and Wilson’s rank sum test. (McEnery, 2019) Here, we will focus specifically on the chi-squared test. This test is frequently used because it is sensitive and does not require the data to be normally distributed, which is often the case with linguistic data. Additionally, in 2 x 2 tables — a typical setup in linguistic studies — the chi-squared test is straightforward to apply, even without specialized software. One notable limitation of the chi-squared test is its unreliability with very small frequencies. It is also important to note that the test cannot be used with proportional data such as percentages since it assumes that differences in corpus size do not matter. Essentially, the chi-squared test assesses how the observed frequencies in a study compare to the frequencies one would expect by chance alone. When the observed and expected frequencies are similar, it is less likely that the observed outcomes are due to chance. 
+Conversely, significant differences between these frequencies suggest a real disparity, such as variations in language use between two groups. To analyze the results of a chi-squared test, one must first determine the degrees of freedom, calculated by multiplying the number of rows minus one by the number of columns minus one. After calculating the degrees of freedom, researchers consult a chi-square table to find the nearest value and corresponding probability. A probability close to zero indicates a strong likelihood that the observed difference is not due to chance. A value near one, however, suggests the opposite. In practice, the cutoff for determining statistical significance is usually set at a probability of less than 0.05. Results yielding probabilities below this threshold are considered significant, whereas those above are not deemed significant. This method helps linguists confirm whether observed linguistic patterns are statistically meaningful.
+
+
+Intensifiers 
+Intensifiers are adverbs that enhance the words they modify and are crucial for exploring sociolinguistic differences. According to Bulgin et al. (2008), they are particularly valuable because they are easy to identify, frequently evolve over time, and show significant social correlations. These linguistic tools are used extensively in both spoken and written language to amplify expressiveness and highlight the emotions and attitudes of the speaker or writer.
+Intensifiers function by either increasing or decreasing the intensity of the language used (Núñez-Pertejo & Palacios-Martínez, 2018). Bolinger (1972) defines them as modifiers that can adjust the intensity of a quality in any direction, while Allerton (1987) describes their primary role as similar to adverbs of degree, typically modifying adjectives.
+Historically, intensifiers fall into two main categories: amplifiers and downtoners. Amplifiers, such as "absolutely" and "totally," push expressions to their highest intensity, whereas downtoners lessen the impact. Another subgroup of amplifiers, known as boosters—like "very" and "really"—raise intensity to a high level, though not to the maximum (Stoffel, 1901; Quirk et al., 1985).
+In contemporary English, these adverb modifiers that boost meaning are often discussed. Quirk, Greenbaum, Leech, and Svartvik (1985) classify them as part of a broader group of linguistic devices called amplifiers, which 'scale upwards from an assumed norm.' Within this group, maximizers indicate the upper extreme of a scale, and boosters signify a higher degree but not the utmost. This article will examine both maximizers and boosters under the broader term of 'intensifier,' highlighting their roles in enriching communication and contributing to a nuanced understanding of language dynamics.
+
+(1) Maximizers: 
+(a) My mom’s just like absolutely great. 
+(b) I’m completely independent. 
+(c) It’s all entirely different. 
+
+(2) Boosters: 
+(a) I’m really lucky that someone like my two really good friends
+(b) And then the teacher said, ‘You know, that’s very dangerous.
+(c) It’s so funny he thinks he’s so cool. 
+(d) I found the mental patients ah extremely interesting 
+(e) She was awful tired, you know, she was sleeping a lot.
+
+Very
+very is regarded as the oldest among the primary intensifiers, with its usage as an intensifier tracing back to the fourteenth century. It is reported to be the most frequent intensifier in contemporary English. (Tagliamonte, 2008) 
+
+
+
+
+
+
+C
+4
+
 
 * Research Questions
   
