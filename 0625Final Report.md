@@ -33,23 +33,23 @@ In contemporary English, these adverb modifiers that boost meaning are often dis
 
 (1) Maximizers: 
 
- (a) My mom’s just like absolutely great. 
+  (a) My mom’s just like absolutely great. 
 
- (b) I’m completely independent. 
+  (b) I’m completely independent. 
 
- (c) It’s all entirely different. 
+  (c) It’s all entirely different. 
  
 (2) Boosters: 
 
- (a) I’m really lucky that someone like my two really good friends
+  (a) I’m really lucky that someone like my two really good friends
 
- (b) And then the teacher said, ‘You know, that’s very dangerous.
+  (b) And then the teacher said, ‘You know, that’s very dangerous.
 
- (c) It’s so funny he thinks he’s so cool. 
+  (c) It’s so funny he thinks he’s so cool. 
  
- (d) I found the mental patients ah extremely interesting 
+  (d) I found the mental patients ah extremely interesting 
 
- (e) She was awful tired, you know, she was sleeping a lot.
+  (e) She was awful tired, you know, she was sleeping a lot.
 
 
 * Very
@@ -58,12 +58,12 @@ very is regarded as the oldest among the primary intensifiers, with its usage as
 
 The usage of Very 
 
-- Adverb 
+Adverb 
  (1)	Very as adverb with adjective: very hot
 
  (2) very as adverb with verb: didn't hurt very much
 
-- Adjective
+ Adjective
  (1)  Very as adjective: the very heart of the city
 
 
