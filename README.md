@@ -18,7 +18,7 @@ Collocation is the way words naturally group together in a text. It can be measu
 From a meaning perspective, certain verbs expect specific kinds of direct objects. For instance, the verb "drink" is typically used with liquids like water or coffee. You wouldn't use "drink" with non-liquid nouns like "bread" or "guitar." This matching of verbs and objects shows a deep connection between grammar rules and how we understand the world. Also, the main topic of a text helps determine which words appear together, making sure they all relate to the same subject.
 Furthermore, words in a text naturally tend to group with some words more than others, forming patterns that are not always predicted by basic language rules. 
 
-* chi-squared test
+* Chi-squared test
 
 In corpus linguistics, researchers have several significant tests at their disposal, such as the chi-squared test, the Student’s t-test, and Wilson’s rank sum test. (McEnery, 2019) Here, we will focus specifically on the chi-squared test. This test is frequently used because it is sensitive and does not require the data to be normally distributed, which is often the case with linguistic data. Additionally, in 2 x 2 tables — a typical setup in linguistic studies — the chi-squared test is straightforward to apply, even without specialized software. One notable limitation of the chi-squared test is its unreliability with very small frequencies. It is also important to note that the test cannot be used with proportional data such as percentages since it assumes that differences in corpus size do not matter. Essentially, the chi-squared test assesses how the observed frequencies in a study compare to the frequencies one would expect by chance alone. When the observed and expected frequencies are similar, it is less likely that the observed outcomes are due to chance. 
 Conversely, significant differences between these frequencies suggest a real disparity, such as variations in language use between two groups. To analyze the results of a chi-squared test, one must first determine the degrees of freedom, calculated by multiplying the number of rows minus one by the number of columns minus one. After calculating the degrees of freedom, researchers consult a chi-square table to find the nearest value and corresponding probability. A probability close to zero indicates a strong likelihood that the observed difference is not due to chance. A value near one, however, suggests the opposite. In practice, the cutoff for determining statistical significance is usually set at a probability of less than 0.05. Results yielding probabilities below this threshold are considered significant, whereas those above are not deemed significant. This method helps linguists confirm whether observed linguistic patterns are statistically meaningful.
@@ -59,11 +59,13 @@ very is regarded as the oldest among the primary intensifiers, with its usage as
 The usage of Very 
 
 Adverb 
+
  (1)	Very as adverb with adjective: very hot
 
  (2) very as adverb with verb: didn't hurt very much
 
  Adjective
+ 
  (1)  Very as adjective: the very heart of the city
 
 
