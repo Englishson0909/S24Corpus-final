@@ -133,29 +133,56 @@ Alternative Hypothesis: The distributional patterns of "very" as an adverb and a
 
 Chi-squared test result 1(Adverb): The Chi-squared test of independence was applied to assess if the observed differences in the distributional patterns of "very" as an adverb are independent of the type of text. The results was statistically significant (χ2=61.467, df=1, p<0.001).
 
-Interpretation: The Chi-squared statistic of 61.467 with 1 degree of freedom and a p-value smaller than 0.001 suggests that there is  statistically significant association between the distribution patterns of "very" as an adverband the type of text (TED vs. COCA). The observed differences between actual and expected frequencies are less than significant at the conventional significance level of 0.05.
+Interpretation: The Chi-squared statistic of 61.467 with 1 degree of freedom and a p-value smaller than 0.001 suggests that there is  statistically significant association between the distribution patterns of "very" as an adverband the type of text (TED vs. COCA). The observed differences between actual and expected frequencies are significant at the conventional significance level of 0.05.
 
 Conclusion: The test results indicate that the type of text (TED vs. COCA) does significantly influence the distribution of the word "very" as an adverb.This significant difference suggests that the usage of "very" as an adverb is different between spoken (TED) and written (COCA) texts. Language researchers and educators might consider that these differences imply usage patterns of "very" as adverb across different types of texts when analyzing language use or designing language learning materials.
 
-Chi-squared test result 1(Adjective): The Chi-squared test of independence was applied to assess if the observed differences in the distributional patterns of "very" as an adjective are independent of the type of text. The results was not statistically significant (χ2=0.9391, df=1, p=0.332).
-Interpretation: The Chi-squared statistic of 61.467 with 1 degree of freedom and a p-value smaller than 0.001 suggests that there is  statistically significant association between the distribution patterns of "very" as an adverband the type of text (TED vs. COCA). The observed differences between actual and expected frequencies are less than significant at the conventional significance level of 0.05.
+Chi-squared test result 2 (Adjective): The Chi-squared test of independence was applied to assess if the observed differences in the distributional patterns of "very" as an adjective are independent of the type of text. The results was not statistically significant (χ2=0.9391, df=1, p=0.332).
+
+Interpretation: The Chi-squared statistic of 0.9391 with 1 degree of freedom and a p-value smaller than 0.001 suggests that there is  statistically significant association between the distribution patterns of "very" as an adverband the type of text (TED vs. COCA). The observed differences between actual and expected frequencies are less than significant at the conventional significance level of 0.05.
 
 Conclusion: The test results indicate that the type of text (TED vs. COCA) does not significantly influence the distribution of the word "very" as an adjective.This lack of significant difference suggests that the usage of "very" as an adjective is not different between spoken (TED) and written (COCA) texts. Language researchers and educators might consider that these similarities imply usage patterns of "very" as adjective across different types of texts when analyzing language use or designing language learning materials.
 
 RQ3 Are there significant differences in the collocational patterns of "very" as an adverb between written and spoken texts?
-Data Analysis 
-Reporting results
-Data visualization
+
+Null hypothesis: The collocation patterns of "very" with other words are independent of the type of text (Spoken: TED, Written: COCA). 
+
+Alternative Hypothesis: The collocation patterns of "very" with other words are dependent of the type of text (Spoken: TED, Written: COCA).
+
+Data visualization ![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/f657d2c1-41a1-4bb4-bcfe-b28eca64b3d8)
+[code](https://colab.research.google.com/drive/1SX5q5Z8VXqGXy1C0uKZhH5aqAoGQBVKj#scrollTo=g0G37rskUcX5)
+
+Chi-squared test result : The Chi-squared test of independence was applied to assess if the observed differences in the distributional patterns of collocation of  "very" as an adverb are independent of the type of text. The results was statistically significant (χ2=38.8557, df=15, p<0.001).
+
+Interpretation: The Chi-squared statistic of 38.8557 with 15 degree of freedom and a p-value smaller than 0.001 suggests that there is statistically significant association between the distribution patterns of collocation words with "very" as an adverb and the type of text (TED vs. COCA). The observed differences between actual and expected frequencies are significant at the conventional significance level of 0.05.
+
+Conclusion: The test results indicate that the type of text (TED vs. COCA) does significantly influence the distribution of the  collocation word with "very" as an adverb.This significant difference suggests that the distribution of collocation of "very" as an adverbe is different between spoken (TED) and written (COCA) texts. Language researchers and educators might consider that these differences imply collocation patterns of "very" as adverb across different types of texts when analyzing language use or designing language learning materials.
+
+
+
 
 RQ4 What is the relative frequency of intensifiers other than "very" in written and spoken texts, and how do these frequencies differ?
 Data Analysis 
 Reporting results
 Data visualization
+![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/032d72f9-67e8-44f5-a369-f073c9e27aad)
+        ![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/09992224-b96c-4de6-ae1e-49394acdd03b)
 
-
+[code](
 
 Hypothesis testing using chi-square test (Frequency data)
-  
+
+Discussion 
+1) Explnation of differnece collocation of very in COCA and TED (posive, negative? or non judgemental, jdudgemental?) 
+2) Explanation of diffrence distirbution of different intensifers in COCA and TED 
+![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/93b61654-fb07-416a-9b5a-bcddc825b929)
+
+Chi-squared test result : The Chi-squared test of independence was applied to assess if the observed differences in the distributional patterns of differnet adverbs are independent of the type of text. The results was statistically significant (χ2=882.42723, df= 402, p<0.001).
+
+Interpretation: The Chi-squared statistic of 882.42723 with 402 degree of freedom and a p-value smaller than 0.001 suggests that there is statistically significant association between the distribution patterns of different adverbs and the type of text (TED vs. COCA). The observed differences between actual and expected frequencies are significant at the conventional significance level of 0.05.
+
+Conclusion: The test results indicate that the type of text (TED vs. COCA) does significantly influence the distribution of the adverbs.This significant difference suggests that the distribution of  adverbs is different between spoken (TED) and written (COCA) texts. Language researchers and educators might consider that these differences imply the different adverbs across different types of texts when analyzing language use or designing language learning materials.
+
 * RQ1 
 Null Hypothesis (H0): The frequency of "very" is independent of the type of text (Spoken: TED, Written: COCA).
 Alternative Hypothesis (HA): The frequency of "very" is dependent of the type of text (Spoken: TED, Written: COCA).
