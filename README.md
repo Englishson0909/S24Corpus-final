@@ -132,6 +132,7 @@ Alternative Hypothesis (HA): The frequency of "very" is dependent of the type of
 Chi-squared test result: The Chi-squared test of independence was applied to assess if the observed differences in frequeny of very across text types were statistically significant ( χ2=61.4672 , df = 1, p<0.001 ).
 
 Interpretation: The Chi-squared statistic of 61.4672 with 1 degree of freedom and a p-value of p<0.01 suggests that there is a statistically significant association between text type (TED vs. COCA) and the frequency of the word "very". The observed differences between actual and expected frequencies are significant at the conventional significance level of 0.05 (and even much lower thresholds).
+
 Conclusion: The test results indicate that the type of text (TED vs. COCA) significantly influences the frequency of the word "very". This significant difference suggests that the usage of "very" varies considerably between spoken (TED) and written (COCA) texts. Language researchers and educators might consider these differences when analyzing language use in different contexts or when designing language learning materials that target different types of text. 
                        
 
