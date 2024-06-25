@@ -214,7 +214,8 @@ The test results indicate that the type of text (TED vs. COCA) does significantl
   
 Limitation: The study lacks research on the frequency of different parts of speech of "very". Additionally, the spoken text consists of speeches, which may not represent all spoken texts, and the written text consists of news articles, which may not represent all written texts.
 
-Future research directions
+Future research directions:
+
 There is a need for research on the trends in the use of "very" and "so" among native English speakers, focusing on both spoken and written contexts.
 
 Additionally, a pattern analysis of adjectives following intensifiers based on their evaluative nature—whether positive, negative, or neutral—would provide valuable insights. Many intensifiers are used with adjectives that have both positive and negative connotations or are neutral, such as "busy" and "sure."
