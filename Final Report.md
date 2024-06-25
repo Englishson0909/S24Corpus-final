@@ -44,80 +44,30 @@ In contemporary English, these adverb modifiers that boost meaning are often dis
 (e) She was awful tired, you know, she was sleeping a lot.
 
 Very
+very is regarded as the oldest among the primary intensifiers, with its usage as an intensifier tracing back to the fourteenth century. It is reported to be the most frequent intensifier in contemporary English. (Tagliamonte, 2008). Very has been regarded as “the intensifier par excellence” and it is also the oldest intensifier (Cacchiani, 2009b, p. 234).  Reflecting this trend, "very" appears most frequently among Korean learneres of English. However, many studies suggest that the use of "very" is diminishing in strength. (Tagliamonte, 2008). 
 
-very
-1) adverb
+The usage of Very 
+1)	Adverb 
+(1)	Very as adverb with adjective: very hot
+(2) very as adverb with verb: didn't hurt very much
+2) Very as adjective: the very heart of the city
 
-a) to a high degree : EXCEEDINGLY
-very hot
-didn't hurt very much
-b) : in actual fact : TRULY
-the very best store in town
-told the very same story
-very
-
-2 of 2
-adjective
-verier; veriest
-1
-a
-: EXACT, PRECISE
-the very heart of the city
-b
-: exactly suitable or necessary
-the very thing for the purpose
-2
-a
-: UNQUALIFIED, SHEER
-the very shame of it
-b
-: ABSOLUTE, UTTER
-the veriest fool alive
-3
-—used as an intensive especially to emphasize identity
-before my very eyes
-4
-: MERE, BARE
-the very thought terrified him
-5
-: being the same one : SELFSAME
-the very man I saw
-6
-: SPECIAL, PARTICULAR
-the very essence of truth is plainness and brightness
-—John Milton
-7
-a
-: properly entitled to the name or designation : TRUE
-the fierce hatred of a very woman
-—J. M. Barrie
-b
-: ACTUAL, REAL
-the very blood and bone of our grammar
-—H. L. Smith †1972
-c
-: SIMPLE, PLAIN
-in very truth
-
-
-very is regarded as the oldest among the primary intensifiers, with its usage as an intensifier tracing back to the fourteenth century. It is reported to be the most frequent intensifier in contemporary English. (Tagliamonte, 2008). Reflecting this trend, "very" appears most frequently among Korean learneres of English. However, many studies suggest that the use of "very" is diminishing in strength. (Tagliamonte, 2008). 
- 
+Previous Work 
+Tagliamonte and Roberts (2005) analyzed how these words are used in British English from York in northeast England compared to their usage in the American TV series Friends. They found that "very" was used more frequently in the British context, followed by "really" and "so," while "so" became the most popular in the American context, surpassing "really" and "very." Further research by Tagliamonte (2008) indicated that the pattern of intensifiers was also evolving in Toronto, Canada, with "very" becoming less popular, "really" seeing a significant increase, and "so" (along with "pretty") becoming more prevalent.
+Aijmer(2018) investigated Intensifiers like "very," "really," and "so" have been extensively studied due to their varying usage across different English dialects and historical periods based on within the International Corpus of English project (ICE). In various English dialects, the usage and frequency of the intensifier "very" show notable differences. In ICE-SIN, "very" is more common than "so" and "really," and its high frequency sometimes leads to over-intensification. Conversely, in American English, "so" predominates over "very" and "really," while in ICE-NZ, "really" is more frequent than both "very" and "so," indicating a preference for other intensifiers over "very." Despite these differences, "very" is consistently found alongside a wide range of adjectives in all dialects, particularly with common adjectives like "good" and "nice." It often appears in evaluative patterns involving predicative adjectives that convey affect, judgment, or appreciation. "Very" generally collocates with positive evaluative adjectives, though this tendency varies by region, being less pronounced in ICE-SIN and ICE-NZ. Characteristically, "very" is linked to a low degree of expressivity, serving more for rational evaluations than for emotional expression. Unique to New Zealand English, "very" can be reduplicated to increase expressiveness, a feature not observed in ICE-GB. Moreover, in ICE-SIN, "very" is sometimes used in unusual combinations such as "very awful" and "very terrible," potentially reflecting regional linguistic characteristics (Cacchiani, 2009b).
+The present study is concerned with comparing the frequencies and uses of intensifiers of very with adjectives in data representing the English spoken(TED) and written data (COCA). The focus is on frequency of very between the individual intensifiers or collocations of the intensifiers plus adjectives 
 
 
 
 
-
-
-C
-4
 
 
 * Research Questions
   
-1)	How does the frequency of the adverb "very" differ between written and spoken texts?
-2)	What are the different distributional patterns of "very" as an adverb, adjective in written and spoken text? 
-3)	Which are thte alloccaion patterns "very" in written and spoken texts? And how different?
-4)	What is the relative frequency of other intensifiers in comparison to "very" in written and spoken texts? And how different?
+1) How different the frequency distribution of the adverb "very" differ between written and spoken texts?
+2) What are the different distributional patterns of "very" as an adverb, adjective in written and spoken text? 
+3) Which are the allocation patterns "very" in written and spoken texts? And how different?
+4) What is the relative frequency of other intensifiers in comparison to "very" in written and spoken texts? And how different?
 
 * Hypothesis Formation + Approach to Hypothesis testing (rationale)
   
@@ -127,7 +77,11 @@ Hypothesis Based on Research questions 2: 'Very' is used more frequently as an a
 
 Hypothesis Based on Research questions 3: “Very” is most frequently collocated with much in both spoken and written text. 
 
-Hypothesis based on Research Question 4: Other intensifiers is frequently used as much as very in spoken and written text. 
+Hypothesis based on Research Question 4: Other intensifiers are frequently used as much as very in spoken and written text. 
+
+
+
+
 
 3.	Methodology 
   
@@ -136,6 +90,10 @@ Hypothesis based on Research Question 4: Other intensifiers is frequently used a
 A.	Spoken data : TED Talks are free online videos from experts on various topics, including communication. The selected TED Talks are between 6 and more than 18 minutes long, providing sufficient content for analysis. We removed speakers with strong accents to ensure clear speech patterns and deleted all time stamps and speaker names to focus on the content. After cleaning data, we combined them into a single dataset. This dataset, saved in CSV format, is ready for analysis using computational tools.
 
 B.	Written data : The Corpus of Contemporary American English (COCA) is a large collection of American English texts used for language research. For our study, we focused on COCA texts about communication to see how people use language in different situations. We removed texts with strong regional accents to keep the language patterns clear and uniform. We also deleted all time stamps and author names to focus only on the content. After cleaning the texts to remove extra information, we combined them into one dataset and saved it in CSV format for easy analysis. To ensure uniform lexical size between the two datasets, the COCA texts were reduced to match the lexical size of the TED transcripts. (219,507 words) 
+
+C. Data cleaning 
+The intensifiers very plus  adjective and very plus noun were extracted from the two data and investigated quantitatively and qualitatively.
+
 
 4.	Data analysis methods
    
@@ -149,7 +107,8 @@ RQ1
 Data Analysis 
 Reporting results
 Data visualization 
-![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/a5e2c8c3-711c-4c6d-88bf-258ef3805c1a)
+![image](![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/1e795264-0508-4936-a348-8c58f8eb7928)
+
 
 
 RQ2 
@@ -224,9 +183,11 @@ Conclusion: We reject the null hypothesis and conclude that the frequency of int
   
 Limitation: The study lacks research on the frequency of different parts of speech of "very". Additionally, the spoken text consists of speeches, which may not represent all spoken texts, and the written text consists of news articles, which may not represent all written texts.
 Future Research directions: There is a need for research on the trends in the use of "very" and "so" among native English speakers in respect of spoken and Written.  
-
+Pattern Analysis of adjective followed by intensifier based on the positive or negative, evaluative, non evaluative etc. 
+many intensifiers occur with adjectives which have both positive and negative associations (or with adjectives which are neutral with regard to whether the adjectives are good or bad, e.g. busy, sure)
+dialect analysis on intensifiers (inner circle, outer circle English speaking countries) 
+Aijmer, K. (2018). ‘That’s well bad’: Some new intensifiers in spoken British English. In Corpus Approaches to Contemporary British Speech (pp. 60-95). Routledge.
 * Reference
-
 Aijmer, K. (2018). Intensification with very, really and so in selected varieties of English. In Corpora and lexis (pp. 106-139). Brill. 
 
 Al-Shawashreh, E., Allawzi, A., & Jarrah, M. (2024). Variable use of intensifiers in Ottawa English. Heliyon, 10(10).
@@ -235,6 +196,8 @@ Bolinger, D. (2013). Degree words (Vol. 53). Walter de Gruyter.
 
 Bulgin, J., Elford, N., Harding, L., Henley, B., Power, S., & Walters, C. (2008). So very really variable: Social patterning of intensifier use by Newfoundlanders online. Linguistica Atlantica, 29, 101-115.
 
+Cacchiani, S. (2009b). Lexico-functional categories and complex collocations: The case of intensifiers. In U. Römer & R. Schulze (Eds.), Exploring the lexis-grammar interface (pp. 229-246). John Benjamins.
+
 Conzett, J., Hargreaves, P. H., Hill, J., Lewis, M., & Woolard, G. C. (2000). Teaching collocation: Further developments in the lexical approach (pp. 163-199). M. Lewis (Ed.). Boston: Thomson Heinle.
 
 Davies, M. (2010). The Corpus of Contemporary American English as the first reliable monitor corpus of English. Literary and linguistic computing, 25(4), 447-464. 
@@ -242,17 +205,19 @@ Davies, M. (2010). The Corpus of Contemporary American English as the first reli
 Gries, S. T. (2009). What is corpus linguistics?. Language and linguistics compass, 3(5), 1225-1241.
 
 Halliday, M. A. K. (1961). Categories of the theory of grammar. Word, 17(2), 241-292.
-
 Lewis, M., Gough, C., Martínez, R., Powell, M., Marks, J., Woolard, G. C., & Ribisch, K. H. (1997). Implementing the lexical approach: Putting theory into practice (Vol. 3, No. 1, pp. 223-232). Hove: Language Teaching Publications.
 
 McEnery, T. (2019). Corpus linguistics. Edinburgh University Press.
-Méndez-Naya, B. (2008). Special issue on English intensifiers. English Language & Linguistics, 12(2), 213-219.
 
+Méndez-Naya, B. (2008). Special issue on English intensifiers. English Language & Linguistics, 12(2), 213-219.
+Recski, L. J. (2004). "… It's Really Ultimately Very Cruel…": contrasting English intensifier collocations across EFL writing and academic spoken discourse. DELTA: Documentação de Estudos em Lingüística Teórica e Aplicada, 20, 211-234.
 S. Tagliamonte, S. So Different and pretty cool! Recycling intensifiers in Toronto, Canada Engl. Lang. Ling., 12 (2) (2008), pp. 361-394
 
 Stefanowitsch, A. (2020). Corpus linguistics: A guide to the methodology. Language Science Press.
 
 Tagliamonte, S. A. (2008). So different and pretty cool! Recycling intensifiers in Toronto, Canada1. English Language & Linguistics, 12(2), 361-394.
+
+Tagliamonte, S., & Roberts, C. (2005). So weird; so cool; so innovative: The use of intensifiers in the television series Friends. American Speech, 80(3), 280–300.
 
 Tao, H. (2007). A corpus-based investigation of absolutely and related phenomena in spoken American English. Journal of English Linguistics, 35(1), 5-29.
 
@@ -270,8 +235,22 @@ Ellis, N. C. (2002). Frequency effects in language processing: A review with imp
 
 [Google Colab](https://colab.research.google.com/)
 
-[Google Colab Link](https://colab.research.google.com/drive/1GZhWO_XkkVohyj899aADQL_vBpyFX3Ow#scrollTo=vzm2S2IKyGhB)
+[Google Colab Link]()
 
 [Chatgpt](https://chatgpt.com/)
 
 [Oxford dictionary](https://www.oxfordlearnersdictionaries.com/)
+
+Further research topic
+compare the synonymous intensifiers very, really and so across some varieties 
+(Aijmer, K. (2018). Intensification with very, really and so in selected varieties of English. In Corpora and lexis (pp. 106-139). Brill. ) 
+
+교수님께
+늦어서 죄송합니다. 교수님 피드백을 읽고 자료를 찾다 보니 점점 부족한 점만 보여 몇 번 좌절하다가 제출합니다
+이번 학기도 많은 가르침 주셔서 감사합니다. 교수님 덕분에 파이선 코드라는 것도 알게 되고 디지털 리터러시에 대한 관심도 많이 생겼습니다. 
+작년 처음으로 GPT에 관한 이야기를 듣고 한 동안 어리둥절 했던 저를 생각하면 지금 이 성장(많이 부족합니다^^)은 교수님 덕분에 가능했습니다
+정말 감사드립니다. 
+비록 다음 학기에 수업에서 뵙지는 못하지만, 현장에서 아이들 만나는 수업에서 교수님이 주신 자료와 코딩을 활용해서 tailoring 해보도록 하겠습니다
+지난 학기 교수님께서 '교사들은 guilty 해야 한다"는 말씀이 저에게 좋은 채찍이 되고 있습니다. 
+현장에서 아이들과 깨어있도록 노력하겠습니다. 감사합니다. 행복하고 건강한 여름방학 되시길 바랍니다 ~ 
+
