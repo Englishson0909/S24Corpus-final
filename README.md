@@ -79,7 +79,7 @@ The present study is concerned with comparing the frequencies and uses of intens
 1. How does the frequency of the adverb "very" differ between written and spoken texts?
 2. What are the different distributional patterns of "very" as an adverb, adjective in written and spoken text?
 3. Are there significant differences in the collocational patterns of "very" between written and spoken texts?
-4. What is the relative frequency of intensifiers comapred to "very" in written and spoken texts?
+4. What is the relative frequency of intensifiers other than "very" in written and spoken texts, and how do these frequencies differ?
 
 
 * Hypothesis Formation + Approach to Hypothesis testing (rationale)
