@@ -65,10 +65,10 @@ The present study is concerned with comparing the frequencies and uses of intens
 
 * Research Questions
   
-1) How different the frequency distribution of the adverb "very" differ between written and spoken texts?
-2) What are the different distributional patterns of "very" as an adverb, adjective in written and spoken text? 
-3) What are the allocation patterns "very" as an adverb in written and spoken texts? And how different?
-4) What is the relative frequency of other intensifiers in comparison to "very" in written and spoken texts? And how different?
+1. How does the frequency of the adverb "very" differ between written and spoken texts?
+2. What are the different distributional patterns of "very" as an adverb, adjective in written and spoken text?
+3. Are there significant differences in the collocational patterns of "very" between written and spoken texts?
+4. What is the relative frequency of intensifiers other than "very" in written and spoken texts, and how do these frequencies differ?
 
 
 * Hypothesis Formation + Approach to Hypothesis testing (rationale)
@@ -103,7 +103,7 @@ C.	Collocated words following very in spoken and written text: Collocation Analy
 D.	Other intensifier frequency in spoken and written text: Text Extraction, Text Tokenization and Counting, Plotting Frequencies 
 
 5. Results and Discussion  
-RQ1 How different the frequency distribution of the adverb "very" differ between written and spoken texts?
+RQ1 How does the frequency of the adverb "very" differ between written and spoken texts?
 
 Data visualization 
 ![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/53f1a9e8-aa25-40b5-b370-70b7f8f74959)
@@ -119,7 +119,7 @@ Interpretation: The Chi-squared statistic of 61.4672 with 1 degree of freedom an
 Conclusion: The test results indicate that the type of text (TED vs. COCA) significantly influences the frequency of the word "very". This significant difference suggests that the usage of "very" varies considerably between spoken (TED) and written (COCA) texts. Language researchers and educators might consider these differences when analyzing language use in different contexts or when designing language learning materials that target different types of text. 
                        
 
-RQ2 What are the different distributional patterns of "very" as an adverb, adjective in written and spoken text? 
+RQ2  What are the different distributional patterns of "very" as an adverb, adjective in written and spoken text?
 
 Data visualization
 ![image] ![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/ba2574a8-1633-4b0f-bea1-5e670a3ecd8d)
@@ -142,17 +142,16 @@ Interpretation: The Chi-squared statistic of 61.467 with 1 degree of freedom and
 
 Conclusion: The test results indicate that the type of text (TED vs. COCA) does not significantly influence the distribution of the word "very" as an adjective.This lack of significant difference suggests that the usage of "very" as an adjective is not different between spoken (TED) and written (COCA) texts. Language researchers and educators might consider that these similarities imply usage patterns of "very" as adjective across different types of texts when analyzing language use or designing language learning materials.
 
-RQ3
+RQ3 Are there significant differences in the collocational patterns of "very" as an adverb between written and spoken texts?
 Data Analysis 
 Reporting results
 Data visualization
-![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/c0f461d8-6044-4e40-9327-8da719bd576e)
 
-RQ4
+RQ4 What is the relative frequency of intensifiers other than "very" in written and spoken texts, and how do these frequencies differ?
 Data Analysis 
 Reporting results
 Data visualization
-![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/c0058213-ea2c-49c9-8282-3e0680e8dd6d)
+
 
 
 Hypothesis testing using chi-square test (Frequency data)
