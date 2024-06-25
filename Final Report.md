@@ -55,11 +55,7 @@ The usage of Very
 Previous Work 
 Tagliamonte and Roberts (2005) analyzed how these words are used in British English from York in northeast England compared to their usage in the American TV series Friends. They found that "very" was used more frequently in the British context, followed by "really" and "so," while "so" became the most popular in the American context, surpassing "really" and "very." Further research by Tagliamonte (2008) indicated that the pattern of intensifiers was also evolving in Toronto, Canada, with "very" becoming less popular, "really" seeing a significant increase, and "so" (along with "pretty") becoming more prevalent.
 Aijmer(2018) investigated Intensifiers like "very," "really," and "so" have been extensively studied due to their varying usage across different English dialects and historical periods based on within the International Corpus of English project (ICE). In various English dialects, the usage and frequency of the intensifier "very" show notable differences. In ICE-SIN, "very" is more common than "so" and "really," and its high frequency sometimes leads to over-intensification. Conversely, in American English, "so" predominates over "very" and "really," while in ICE-NZ, "really" is more frequent than both "very" and "so," indicating a preference for other intensifiers over "very." Despite these differences, "very" is consistently found alongside a wide range of adjectives in all dialects, particularly with common adjectives like "good" and "nice." It often appears in evaluative patterns involving predicative adjectives that convey affect, judgment, or appreciation. "Very" generally collocates with positive evaluative adjectives, though this tendency varies by region, being less pronounced in ICE-SIN and ICE-NZ. Characteristically, "very" is linked to a low degree of expressivity, serving more for rational evaluations than for emotional expression. Unique to New Zealand English, "very" can be reduplicated to increase expressiveness, a feature not observed in ICE-GB. Moreover, in ICE-SIN, "very" is sometimes used in unusual combinations such as "very awful" and "very terrible," potentially reflecting regional linguistic characteristics (Cacchiani, 2009b).
-The present study is concerned with comparing the frequencies and uses of intensifiers of very with adjectives in data representing the English spoken(TED) and written data (COCA). The focus is on frequency of very between the individual intensifiers or collocations of the intensifiers plus adjectives 
-
-
-
-
+The present study is concerned with comparing the frequencies and uses of intensifiers of very with adjectives as adverb and very with noun as adjective in data representing the English spoken(TED) and written data (COCA). 
 
 
 * Research Questions
@@ -103,20 +99,21 @@ C.	Collocated words following very in spoken and written text: Collocation Analy
 D.	Other intensifier frequency in spoken and written text: Text Extraction, Text Tokenization and Counting, Plotting Frequencies 
 
 5. Results and Discussion  
-RQ1 
+RQ1 How different the frequency distribution of the adverb "very" differ between written and spoken texts?
 Data Analysis 
 Reporting results
 Data visualization 
-![image](![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/1e795264-0508-4936-a348-8c58f8eb7928)
+![image](![image]
 
 
-
-RQ2 
+RQ2 What are the different distributional patterns of "very" as an adverb, adjective in written and spoken text? 
 Data Analysis 
 Reporting results
 Data visualization
-![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/0da2eca0-3ae6-4403-b23a-ad5b484fe28c)
-
+![image] ![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/ba2574a8-1633-4b0f-bea1-5e670a3ecd8d)
+          ![image](https://github.com/Englishson0909/S24Corpus-final/assets/127401703/f6166aa1-0dc6-44b2-abef-dbc9003277b9)
+Code: (https://colab.research.google.com/github/Englishson0909/S24Corpus-final/raw/main/RQ02(0625).ipynb#scrollTo=vZaci-ATIBVn)
+      (https://github.com/Englishson0909/S24Corpus-final/raw/main/RQ02(0625).ipynb)
 RQ3
 Data Analysis 
 Reporting results
@@ -145,11 +142,17 @@ Conclusion: The test results indicate that the type of text (TED vs. COCA) signi
 Null Hypothesis: The distributional patterns of "very" as an adverb and adjective are independent of the type of text (Spoken: TED, Written: COCA).
 Alternative Hypothesis: The distributional patterns of "very" as an adverb and adjective are dependent on the type of text (Spoken: TED, Written: COCA).
 
-Chi-squared test result: The Chi-squared test of independence was applied to assess if the observed differences in the distributional patterns of "very" as an adverb and adjective are independent of the type of text. The test was not statistically significant (χ2=0.0641, df=1, p=0.8).
+Chi-squared test result 1(Adverb): The Chi-squared test of independence was applied to assess if the observed differences in the distributional patterns of "very" as an adverb are independent of the type of text. The results was statistically significant (χ2=61.467, df=1, p<0.001).
 
-Interpretation: The Chi-squared statistic of 0.0641 with 1 degree of freedom and a p-value of 0.8 suggests that there is no statistically significant association between the distribution patterns of "very" as an adverb and adjective and the type of text (TED vs. COCA). The observed differences between actual and expected frequencies are not significant at the conventional significance level of 0.05.
+Interpretation: The Chi-squared statistic of 61.467 with 1 degree of freedom and a p-value smaller than 0.001 suggests that there is  statistically significant association between the distribution patterns of "very" as an adverband the type of text (TED vs. COCA). The observed differences between actual and expected frequencies are less than significant at the conventional significance level of 0.05.
 
-Conclusion: The test results indicate that the type of text (TED vs. COCA) does not significantly influence the distribution of the word "very" as an adverb and adjective. This lack of significant difference suggests that the usage of "very" as an adverb and adjective is similar between spoken (TED) and written (COCA) texts. Language researchers and educators might consider that these similarities imply consistent usage patterns of "very" across different types of texts when analyzing language use or designing language learning materials.
+Conclusion: The test results indicate that the type of text (TED vs. COCA) does significantly influence the distribution of the word "very" as an adverb.This significant difference suggests that the usage of "very" as an adverb is different between spoken (TED) and written (COCA) texts. Language researchers and educators might consider that these differences imply usage patterns of "very" as adverb across different types of texts when analyzing language use or designing language learning materials.
+
+Chi-squared test result 1(Adjective): The Chi-squared test of independence was applied to assess if the observed differences in the distributional patterns of "very" as an adjective are independent of the type of text. The results was not statistically significant (χ2=0.9391, df=1, p=0.332).
+Interpretation: The Chi-squared statistic of 61.467 with 1 degree of freedom and a p-value smaller than 0.001 suggests that there is  statistically significant association between the distribution patterns of "very" as an adverband the type of text (TED vs. COCA). The observed differences between actual and expected frequencies are less than significant at the conventional significance level of 0.05.
+
+Conclusion: The test results indicate that the type of text (TED vs. COCA) does not significantly influence the distribution of the word "very" as an adjective.This lack of significant difference suggests that the usage of "very" as an adjective is not different between spoken (TED) and written (COCA) texts. Language researchers and educators might consider that these similarities imply usage patterns of "very" as adjective across different types of texts when analyzing language use or designing language learning materials.
+
 
 * RQ3 
  Null hypothesis: The collocation patterns of "very" with other words are independent of the type of text (Spoken: TED, Written: COCA). 
